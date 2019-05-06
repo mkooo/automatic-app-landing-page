@@ -31,8 +31,8 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
+  - title                                 : サンプルタイトル
+    description                           : ここにアプリが提供する機能の紹介を記述します
     fontawesome_icon_name                 : magic
     
   - title                                 : iPhone Device Preview
